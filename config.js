@@ -9,5 +9,5 @@ window.PIX_CONFIG = {
   amount: "190,00",
   recipient: "Marcelo Gouveia da Silva, Serra, ES",
   address: "Rua Timbaúba 72, Casa Barcelona Serra, ES 29166029",
-  pixCode: "00020101021226790014br.gov.bcb.pix2557qrcode.mwbank.com.br/cob/718ee0c6b1b04eafb48cb70aec8fbe9b5204000053039865802BR5925WLB INTERMEDIACAO DE NEGO6009SAO PAULO62070503***63048E9D"
+  pixCode: "00020101021226790014br.gov.bcb.pix2557qrcode.mwbank.com.br/cob/ff0ea34f23494703997053eb22f236065204000053039865802BR5925WLB INTERMEDIACAO DE NEGO6009SAO PAULO62070503***6304F357"
 };
